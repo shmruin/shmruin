@@ -2,7 +2,6 @@
 - 👀 I’m interested in developing fun contents in web and app world.
 - 🌱 I’m currently learning Typescript & SCSS basic knowledge as well as React.
 - 💞️ I’m looking to collaborate on whatever makes the world happy!
-- 📫 How to reach me ... By my email (meme_hm@naver.com)
 
 <!---
 shmruin/shmruin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
