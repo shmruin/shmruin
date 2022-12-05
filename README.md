@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shmruin
-- 👀 I’m interested in developing fun contents in web and app world.
-- 🌱 I’m currently learning Typescript & SCSS basic knowledge as well as React.
+- 👀 I’m interested in developing fun contents in web and network world.
+- 🌱 I’m currently learning Go knowledge as well as Webrtc.
 - 💞️ I’m looking to collaborate on whatever makes the world happy!
 
 <!---
